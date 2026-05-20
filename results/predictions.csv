@@ -1,0 +1,301 @@
+id,prompt,expected,generated,predicted,success,n_steps
+0,"After Karen and James went to the store, Karen gave the gift to", James,James. James,James,1,1
+1,"Once Susan and Dan arrived at the park, Susan passed the keys to", Dan,the car.,the,0,1
+2,"After Mary and John went to the park, Mary gave the ball to", John,"John, who",John,1,1
+3,"Once Jessica and Kevin arrived at the store, Jessica passed the ball to", Kevin,Kevin.,Kevin,1,1
+4,"After Susan and Robert went to the office, Susan gave a drink to", Robert,Robert. Robert,Robert,1,1
+5,"After Lucy and Emily went to the gym, Lucy gave the gift to", Emily,"Emily, who",Emily,1,1
+6,"When Lily and Chris went to the gym, Chris gave the keys to", Lily,the gym to,the,0,1
+7,"While James and Alex were at the gym, Alex handed a card to", James,James.,James,1,1
+8,"Once Jack and Mary arrived at the cafe, Jack passed the keys to", Mary,the cafe's,the,0,1
+9,"After Tom and David went to the office, Tom gave a card to", David,David.,David,1,1
+10,"While Tom and Lucy were at the store, Lucy handed the ball to", Tom,"Tom, who",Tom,1,1
+11,"Once Tom and Ben arrived at the school, Tom passed the keys to", Ben,the school's,the,0,1
+12,"While Robert and Anna were at the gym, Anna handed a book to", Robert,Robert.,Robert,1,1
+13,"After Lisa and Chris went to the office, Lisa gave the keys to", Chris,the office to,the,0,1
+14,"Once David and Henry arrived at the school, David passed a book to", Henry,Henry. Henry,Henry,1,1
+15,"When Anna and Alex went to the school, Alex gave a card to", Anna,Anna and asked,Anna,1,1
+16,"Once Susan and Rachel arrived at the store, Susan passed a card to", Rachel,Rachel. Rachel,Rachel,1,1
+17,"After Anna and Tom went to the school, Anna gave a card to", Tom,"Tom, who",Tom,1,1
+18,"After Karen and Sarah went to the library, Karen gave the flowers to", Sarah,Sarah. Sarah,Sarah,1,1
+19,"Once Anna and Dan arrived at the school, Anna passed the gift to", Dan,"her sister,",her,0,1
+20,"After Helen and Laura went to the library, Helen gave a card to", Laura,"Laura, who",Laura,1,1
+21,"When Jessica and Dan went to the cafe, Dan gave the keys to", Jessica,Jessica's car,Jessica's,0,1
+22,"Once Ben and James arrived at the restaurant, Ben passed a book to", James,James. James,James,1,1
+23,"Once Kevin and Tom arrived at the library, Kevin passed the bag to", Tom,Tom.,Tom,1,1
+24,"While Anna and Jessica were at the store, Jessica handed the keys to", Anna,the store's,the,0,1
+25,"While Karen and Lily were at the gym, Lily handed the keys to", Karen,Karen.,Karen,1,1
+26,"While Mike and Emily were at the cafe, Emily handed a drink to", Mike,Mike.,Mike,1,1
+27,"While Lily and Jessica were at the restaurant, Jessica handed the keys to", Lily,the restaurant's,the,0,1
+28,"While Karen and Rachel were at the school, Rachel handed a book to", Karen,Karen.,Karen,1,1
+29,"Once Lily and Mike arrived at the store, Lily passed a card to", Mike,"Mike, who",Mike,1,1
+30,"After John and James went to the gym, John gave the gift to", James,James. James,James,1,1
+31,"Once Mary and Susan arrived at the park, Mary passed the keys to", Susan,the car.,the,0,1
+32,"Once Rachel and Tom arrived at the restaurant, Rachel passed a book to", Tom,Tom.,Tom,1,1
+33,"After David and Mike went to the office, David gave the bag to", Mike,Mike. David,Mike,1,1
+34,"Once David and Lily arrived at the school, David passed the gift to", Lily,"Lily, who",Lily,1,1
+35,"Once Steve and Karen arrived at the gym, Steve passed the flowers to", Karen,Karen. Karen,Karen,1,1
+36,"While Susan and James were at the school, James handed the keys to", Susan,Susan's room,Susan's,0,1
+37,"When Laura and John went to the school, John gave the ball to", Laura,Laura. Laura,Laura,1,1
+38,"When Lucy and Tom went to the store, Tom gave the ball to", Lucy,Lucy. Lucy,Lucy,1,1
+39,"After Helen and Mary went to the gym, Helen gave the keys to", Mary,the gym to,the,0,1
+40,"After Anna and Steve went to the cafe, Anna gave the ball to", Steve,"Steve, who",Steve,1,1
+41,"Once Henry and Helen arrived at the cafe, Henry passed the ball to", Helen,"Helen, who",Helen,1,1
+42,"When Emily and Jack went to the school, Jack gave the keys to", Emily,the school's,the,0,1
+43,"Once Steve and Emily arrived at the gym, Steve passed the bag to", Emily,Emily. Emily,Emily,1,1
+44,"When Ben and Robert went to the store, Robert gave the keys to", Ben,the store's,the,0,1
+45,"After Alex and Henry went to the gym, Alex gave the keys to", Henry,the gym to,the,0,1
+46,"Once Chris and David arrived at the cafe, Chris passed a book to", David,"his wife,",his,0,1
+47,"When Anna and Mike went to the cafe, Mike gave the ball to", Anna,Anna.,Anna,1,1
+48,"When Jack and Robert went to the park, Robert gave a drink to", Jack,Jack. Jack,Jack,1,1
+49,"Once Tom and Lily arrived at the school, Tom passed a book to", Lily,"Lily, who",Lily,1,1
+50,"After Sarah and Chris went to the library, Sarah gave a drink to", Chris,Chris.,Chris,1,1
+51,"Once Alex and John arrived at the library, Alex passed the gift to", John,John.,John,1,1
+52,"After Paul and Emily went to the cafe, Paul gave a book to", Emily,Emily. Paul,Emily,1,1
+53,"While Chris and Paul were at the store, Paul handed a drink to", Chris,Chris and Paul,Chris,1,1
+54,"When Laura and Mary went to the cafe, Mary gave a book to", Laura,Laura. Laura,Laura,1,1
+55,"When Tom and Jessica went to the restaurant, Jessica gave the keys to", Tom,the restaurant to,the,0,1
+56,"When Ben and Steve went to the school, Steve gave the bag to", Ben,Ben and Steve,Ben,1,1
+57,"When Laura and Helen went to the school, Helen gave a drink to", Laura,Laura and Laura,Laura,1,1
+58,"After Emily and Steve went to the gym, Emily gave the gift to", Steve,Steve. Emily,Steve,1,1
+59,"While Lucy and Steve were at the gym, Steve handed the ball to", Lucy,Lucy. Lucy,Lucy,1,1
+60,"While Dan and Alex were at the office, Alex handed the flowers to", Dan,Dan and Alex,Dan,1,1
+61,"When Tom and Lily went to the store, Lily gave the flowers to", Tom,"Tom, who",Tom,1,1
+62,"After Tom and David went to the school, Tom gave the gift to", David,"his sister,",his,0,1
+63,"While Helen and Lisa were at the park, Lisa handed the ball to", Helen,Helen.,Helen,1,1
+64,"When Mike and Paul went to the cafe, Paul gave the gift to", Mike,Mike.,Mike,1,1
+65,"After Steve and Rachel went to the office, Steve gave the keys to", Rachel,Rachel's car,Rachel's,0,1
+66,"While James and Anna were at the park, Anna handed a book to", James,James.,James,1,1
+67,"After Paul and Kevin went to the school, Paul gave a card to", Kevin,"Kevin, who",Kevin,1,1
+68,"While Karen and Steve were at the office, Steve handed the flowers to", Karen,Karen.,Karen,1,1
+69,"Once Helen and Ben arrived at the store, Helen passed the keys to", Ben,the store and,the,0,1
+70,"While Anna and Rachel were at the store, Rachel handed a drink to", Anna,Anna.,Anna,1,1
+71,"Once Lily and Dan arrived at the office, Lily passed a book to", Dan,Dan.,Dan,1,1
+72,"When Lucy and David went to the library, David gave a drink to", Lucy,Lucy. Lucy,Lucy,1,1
+73,"While Helen and Tom were at the restaurant, Tom handed a drink to", Helen,Helen. Helen,Helen,1,1
+74,"After Laura and David went to the restaurant, Laura gave the bag to", David,"David, who",David,1,1
+75,"While Paul and Mary were at the gym, Mary handed a drink to", Paul,Paul.,Paul,1,1
+76,"While Steve and Chris were at the school, Chris handed the keys to", Steve,the school's,the,0,1
+77,"After Lily and David went to the library, Lily gave a book to", David,David.,David,1,1
+78,"When Mike and Ben went to the restaurant, Ben gave the bag to", Mike,Mike and Ben,Mike,1,1
+79,"After Mike and Henry went to the gym, Mike gave the bag to", Henry,"Henry, who",Henry,1,1
+80,"When Mike and Anna went to the park, Anna gave the bag to", Mike,Mike and asked,Mike,1,1
+81,"Once Ben and Sarah arrived at the school, Ben passed the ball to", Sarah,"Sarah, who",Sarah,1,1
+82,"When Paul and Lisa went to the school, Lisa gave the ball to", Paul,"Paul, who",Paul,1,1
+83,"While Chris and Steve were at the library, Steve handed a card to", Chris,Chris.,Chris,1,1
+84,"Once Ben and Tom arrived at the office, Ben passed a card to", Tom,Tom.,Tom,1,1
+85,"When Rachel and Steve went to the gym, Steve gave a drink to", Rachel,Rachel. Rachel,Rachel,1,1
+86,"When Anna and Helen went to the restaurant, Helen gave the gift to", Anna,Anna.,Anna,1,1
+87,"While Kevin and James were at the library, James handed a card to", Kevin,Kevin.,Kevin,1,1
+88,"After Emily and Kevin went to the park, Emily gave the bag to", Kevin,Kevin. Emily,Kevin,1,1
+89,"After Anna and Mary went to the library, Anna gave a drink to", Mary,Mary.,Mary,1,1
+90,"While Emily and Lisa were at the park, Lisa handed a card to", Emily,Emily.,Emily,1,1
+91,"While Ben and Steve were at the park, Steve handed the gift to", Ben,Ben.,Ben,1,1
+92,"While Emily and Steve were at the gym, Steve handed the bag to", Emily,"Emily. """,Emily,1,1
+93,"Once David and Dan arrived at the school, David passed the bag to", Dan,"Dan, who",Dan,1,1
+94,"Once Steve and Henry arrived at the restaurant, Steve passed the gift to", Henry,Henry. Henry,Henry,1,1
+95,"While Rachel and David were at the store, David handed the gift to", Rachel,Rachel. Rachel,Rachel,1,1
+96,"Once Chris and Emily arrived at the gym, Chris passed the flowers to", Emily,Emily. Emily,Emily,1,1
+97,"After Robert and Steve went to the school, Robert gave the flowers to", Steve,Steve. Steve,Steve,1,1
+98,"When Tom and Steve went to the office, Steve gave a card to", Tom,Tom.,Tom,1,1
+99,"After Rachel and Lily went to the school, Rachel gave the gift to", Lily,"Lily, who",Lily,1,1
+100,"When Chris and Jack went to the restaurant, Jack gave a drink to", Chris,Chris and Chris,Chris,1,1
+101,"Once Susan and Sarah arrived at the park, Susan passed the flowers to", Sarah,"her sister,",her,0,1
+102,"Once Helen and Karen arrived at the school, Helen passed the bag to", Karen,Karen. Karen,Karen,1,1
+103,"When Susan and Alex went to the restaurant, Alex gave a drink to", Susan,Susan and Susan,Susan,1,1
+104,"Once Lily and Emily arrived at the school, Lily passed a book to", Emily,"her sister,",her,0,1
+105,"Once Mary and David arrived at the school, Mary passed the keys to", David,the school's,the,0,1
+106,"Once Dan and Jack arrived at the cafe, Dan passed a card to", Jack,"Jack, who",Jack,1,1
+107,"After Kevin and Rachel went to the library, Kevin gave the flowers to", Rachel,Rachel. Rachel,Rachel,1,1
+108,"While Ben and Henry were at the cafe, Henry handed the flowers to", Ben,the couple.,the,0,1
+109,"After Lily and Susan went to the office, Lily gave the flowers to", Susan,Susan.,Susan,1,1
+110,"After Anna and Robert went to the park, Anna gave the gift to", Robert,"Robert, who",Robert,1,1
+111,"After Anna and Brian went to the gym, Anna gave the keys to", Brian,the gym to,the,0,1
+112,"After Dan and Susan went to the library, Dan gave a book to", Susan,Susan. Susan,Susan,1,1
+113,"Once Tom and Emily arrived at the library, Tom passed a card to", Emily,Emily. Emily,Emily,1,1
+114,"Once Emily and Mary arrived at the school, Emily passed the bag to", Mary,"Mary, who",Mary,1,1
+115,"Once Helen and Lily arrived at the store, Helen passed the bag to", Lily,Lily.,Lily,1,1
+116,"Once John and Lisa arrived at the office, John passed the bag to", Lisa,Lisa. Lisa,Lisa,1,1
+117,"After David and Henry went to the school, David gave the flowers to", Henry,Henry. Henry,Henry,1,1
+118,"Once Anna and Emily arrived at the cafe, Anna passed a drink to", Emily,her sister.,her,0,1
+119,"Once Brian and Steve arrived at the library, Brian passed a book to", Steve,Steve. Steve,Steve,1,1
+120,"When Kevin and Dan went to the store, Dan gave the bag to", Kevin,Kevin. Kevin,Kevin,1,1
+121,"Once Tom and Karen arrived at the library, Tom passed a book to", Karen,Karen. Karen,Karen,1,1
+122,"While Mary and Mike were at the office, Mike handed the bag to", Mary,Mary and Mike,Mary,1,1
+123,"Once Chris and Robert arrived at the gym, Chris passed a card to", Robert,Robert.,Robert,1,1
+124,"When Lily and Anna went to the library, Anna gave the gift to", Lily,"Lily, who",Lily,1,1
+125,"After Sarah and John went to the store, Sarah gave a card to", John,"John, who",John,1,1
+126,"After Karen and Tom went to the store, Karen gave a drink to", Tom,Tom. Tom,Tom,1,1
+127,"After Chris and Rachel went to the store, Chris gave a book to", Rachel,Rachel and Chris,Rachel,1,1
+128,"Once Dan and Sarah arrived at the park, Dan passed the ball to", Sarah,"Sarah, who",Sarah,1,1
+129,"When Anna and Lucy went to the gym, Lucy gave a book to", Anna,Anna and said,Anna,1,1
+130,"When Rachel and Lily went to the restaurant, Lily gave the gift to", Rachel,"Rachel, who",Rachel,1,1
+131,"Once Laura and John arrived at the office, Laura passed the bag to", John,"John. """,John,1,1
+132,"When Chris and Lucy went to the park, Lucy gave the ball to", Chris,Chris and Chris,Chris,1,1
+133,"When Lily and Lucy went to the office, Lucy gave the keys to", Lily,the office.,the,0,1
+134,"When David and Lisa went to the library, Lisa gave a card to", David,David.,David,1,1
+135,"Once Jessica and Karen arrived at the gym, Jessica passed a drink to", Karen,"her friend,",her,0,1
+136,"While Sarah and Rachel were at the park, Rachel handed the bag to", Sarah,Sarah.,Sarah,1,1
+137,"Once Karen and Helen arrived at the cafe, Karen passed a book to", Helen,"her. """,her,0,1
+138,"Once Mike and Henry arrived at the office, Mike passed the flowers to", Henry,Henry. Henry,Henry,1,1
+139,"After Emily and Rachel went to the office, Emily gave a card to", Rachel,Rachel. Rachel,Rachel,1,1
+140,"After Rachel and Tom went to the office, Rachel gave the flowers to", Tom,Tom. Rachel,Tom,1,1
+141,"When Robert and Lily went to the library, Lily gave a card to", Robert,"Robert, who",Robert,1,1
+142,"Once Sarah and Ben arrived at the gym, Sarah passed a book to", Ben,Ben. Ben,Ben,1,1
+143,"While Lisa and Chris were at the office, Chris handed a card to", Lisa,Lisa.,Lisa,1,1
+144,"After Helen and Kevin went to the office, Helen gave a drink to", Kevin,Kevin. Helen,Kevin,1,1
+145,"After Tom and Susan went to the library, Tom gave the flowers to", Susan,Susan. Susan,Susan,1,1
+146,"When Sarah and Lucy went to the cafe, Lucy gave the flowers to", Sarah,"Sarah, who",Sarah,1,1
+147,"After Tom and Paul went to the school, Tom gave the bag to", Paul,"Paul, who",Paul,1,1
+148,"While Steve and Paul were at the gym, Paul handed the flowers to", Steve,Steve.,Steve,1,1
+149,"Once Emily and Henry arrived at the gym, Emily passed a card to", Henry,Henry. Henry,Henry,1,1
+150,"When Paul and Anna went to the office, Anna gave the ball to", Paul,"Paul, who",Paul,1,1
+151,"After Henry and Chris went to the gym, Henry gave the keys to", Chris,the gym to,the,0,1
+152,"While Henry and Chris were at the cafe, Chris handed the gift to", Henry,"Henry, who",Henry,1,1
+153,"After James and Rachel went to the school, James gave the gift to", Rachel,"Rachel, who",Rachel,1,1
+154,"After Lisa and Mike went to the office, Lisa gave a drink to", Mike,Mike and Lisa,Mike,1,1
+155,"After Anna and Mary went to the store, Anna gave the gift to", Mary,"Mary, who",Mary,1,1
+156,"When Ben and Karen went to the cafe, Karen gave the keys to", Ben,the cafe to,the,0,1
+157,"Once Laura and Paul arrived at the cafe, Laura passed the flowers to", Paul,the two of,the,0,1
+158,"Once Brian and Mike arrived at the store, Brian passed the gift to", Mike,Mike.,Mike,1,1
+159,"Once James and Rachel arrived at the park, James passed the bag to", Rachel,Rachel.,Rachel,1,1
+160,"After Tom and Laura went to the store, Tom gave a book to", Laura,Laura. Laura,Laura,1,1
+161,"After Jack and Laura went to the office, Jack gave the keys to", Laura,the office to,the,0,1
+162,"Once James and David arrived at the library, James passed the ball to", David,"his brother,",his,0,1
+163,"When Paul and Robert went to the library, Robert gave the gift to", Paul,Paul.,Paul,1,1
+164,"After Kevin and Henry went to the park, Kevin gave the ball to", Henry,"Henry, who",Henry,1,1
+165,"After Anna and Steve went to the park, Anna gave a book to", Steve,Steve and Anna,Steve,1,1
+166,"When David and Mike went to the park, Mike gave a book to", David,the kids.,the,0,1
+167,"When Robert and Emily went to the cafe, Emily gave the gift to", Robert,"Robert, who",Robert,1,1
+168,"When Paul and Susan went to the office, Susan gave the flowers to", Paul,Paul. Paul,Paul,1,1
+169,"Once Steve and Susan arrived at the office, Steve passed the ball to", Susan,Susan.,Susan,1,1
+170,"While David and James were at the school, James handed a book to", David,"his teacher,",his,0,1
+171,"After Rachel and Dan went to the park, Rachel gave a drink to", Dan,Dan. Dan,Dan,1,1
+172,"When Paul and Jack went to the office, Jack gave the flowers to", Paul,Paul. Paul,Paul,1,1
+173,"While Lucy and Robert were at the office, Robert handed the bag to", Lucy,Lucy.,Lucy,1,1
+174,"When David and Jessica went to the cafe, Jessica gave the flowers to", David,David. David,David,1,1
+175,"While Mary and Kevin were at the library, Kevin handed a card to", Mary,Mary.,Mary,1,1
+176,"While Tom and John were at the school, John handed a drink to", Tom,Tom and John,Tom,1,1
+177,"Once Laura and Mary arrived at the restaurant, Laura passed the flowers to", Mary,"her husband,",her,0,1
+178,"When Mike and Anna went to the library, Anna gave the flowers to", Mike,Mike and asked,Mike,1,1
+179,"While Lisa and Sarah were at the library, Sarah handed a card to", Lisa,Lisa.,Lisa,1,1
+180,"Once Steve and James arrived at the restaurant, Steve passed a card to", James,James. James,James,1,1
+181,"When Sarah and Lucy went to the office, Lucy gave the bag to", Sarah,"Sarah, who",Sarah,1,1
+182,"While Tom and Robert were at the gym, Robert handed the gift to", Tom,"his wife,",his,0,1
+183,"Once James and Lily arrived at the library, James passed a drink to", Lily,Lily.,Lily,1,1
+184,"Once Emily and Mary arrived at the school, Emily passed a card to", Mary,"Mary, who",Mary,1,1
+185,"While Robert and Karen were at the store, Karen handed the ball to", Robert,Robert.,Robert,1,1
+186,"Once David and Dan arrived at the office, David passed the flowers to", Dan,Dan. Dan,Dan,1,1
+187,"While John and James were at the school, James handed a book to", John,"John, who",John,1,1
+188,"After David and John went to the library, David gave the keys to", John,the library and,the,0,1
+189,"After Rachel and James went to the cafe, Rachel gave the keys to", James,"James, who",James,1,1
+190,"Once Sarah and Lucy arrived at the office, Sarah passed the gift to", Lucy,Lucy.,Lucy,1,1
+191,"Once Rachel and Sarah arrived at the cafe, Rachel passed the ball to", Sarah,"Sarah, who",Sarah,1,1
+192,"After David and Dan went to the library, David gave the ball to", Dan,"Dan, who",Dan,1,1
+193,"While Tom and Ben were at the office, Ben handed the bag to", Tom,Tom.,Tom,1,1
+194,"While Jessica and Jack were at the office, Jack handed a drink to", Jessica,Jessica.,Jessica,1,1
+195,"Once Henry and Paul arrived at the cafe, Henry passed a book to", Paul,Paul.,Paul,1,1
+196,"Once David and Sarah arrived at the gym, David passed a card to", Sarah,"Sarah. """,Sarah,1,1
+197,"Once Robert and Brian arrived at the school, Robert passed the ball to", Brian,Brian. Brian,Brian,1,1
+198,"While Ben and Susan were at the library, Susan handed a drink to", Ben,Ben.,Ben,1,1
+199,"After Henry and Sarah went to the library, Henry gave the bag to", Sarah,"Sarah, who",Sarah,1,1
+200,"When Mary and Sarah went to the restaurant, Sarah gave a card to", Mary,"Mary, who",Mary,1,1
+201,"When Robert and Ben went to the park, Ben gave the flowers to", Robert,Robert and Ben,Robert,1,1
+202,"When Dan and Henry went to the library, Henry gave a book to", Dan,Dan and Henry,Dan,1,1
+203,"Once Sarah and Jack arrived at the office, Sarah passed a card to", Jack,Jack. Jack,Jack,1,1
+204,"While Tom and Karen were at the gym, Karen handed the bag to", Tom,Tom.,Tom,1,1
+205,"When Lucy and Karen went to the cafe, Karen gave a drink to", Lucy,Lucy. Lucy,Lucy,1,1
+206,"When Karen and Susan went to the office, Susan gave the ball to", Karen,Karen. Karen,Karen,1,1
+207,"After Emily and James went to the park, Emily gave the flowers to", James,James. James,James,1,1
+208,"While Paul and Lucy were at the store, Lucy handed a drink to", Paul,Paul. Paul,Paul,1,1
+209,"While Mary and Jack were at the office, Jack handed a card to", Mary,Mary.,Mary,1,1
+210,"After Emily and Dan went to the school, Emily gave the bag to", Dan,"Dan, who",Dan,1,1
+211,"Once Mike and Tom arrived at the library, Mike passed the ball to", Tom,Tom.,Tom,1,1
+212,"While Dan and Laura were at the school, Laura handed the flowers to", Dan,Dan and Laura,Dan,1,1
+213,"While Anna and Robert were at the store, Robert handed the flowers to", Anna,Anna.,Anna,1,1
+214,"Once Steve and David arrived at the restaurant, Steve passed the keys to", David,the restaurant to,the,0,1
+215,"While Laura and Lisa were at the office, Lisa handed the bag to", Laura,"Laura. """,Laura,1,1
+216,"Once Robert and Ben arrived at the office, Robert passed the ball to", Ben,Ben.,Ben,1,1
+217,"Once Ben and Sarah arrived at the park, Ben passed the ball to", Sarah,"Sarah, who",Sarah,1,1
+218,"When Lisa and Laura went to the office, Laura gave the gift to", Lisa,"Lisa, who",Lisa,1,1
+219,"When Steve and Rachel went to the library, Rachel gave the gift to", Steve,Steve. She,Steve,1,1
+220,"While Ben and Laura were at the store, Laura handed the flowers to", Ben,Ben. Ben,Ben,1,1
+221,"After Lily and Jack went to the school, Lily gave a card to", Jack,"Jack, who",Jack,1,1
+222,"When Chris and Karen went to the office, Karen gave a book to", Chris,Chris. Chris,Chris,1,1
+223,"Once Helen and Karen arrived at the store, Helen passed the gift to", Karen,"her sister,",her,0,1
+224,"When Laura and Mary went to the gym, Mary gave a book to", Laura,Laura. Laura,Laura,1,1
+225,"After Paul and Brian went to the library, Paul gave a book to", Brian,Brian. Brian,Brian,1,1
+226,"After Dan and Jack went to the gym, Dan gave the gift to", Jack,Jack. Jack,Jack,1,1
+227,"While Rachel and Anna were at the cafe, Anna handed the gift to", Rachel,Rachel.,Rachel,1,1
+228,"After Jack and James went to the cafe, Jack gave the keys to", James,the cafe to,the,0,1
+229,"When Susan and Lily went to the library, Lily gave a card to", Susan,"Susan, who",Susan,1,1
+230,"When Alex and Jack went to the store, Jack gave the gift to", Alex,Alex. Alex,Alex,1,1
+231,"While Lisa and Robert were at the office, Robert handed the bag to", Lisa,Lisa.,Lisa,1,1
+232,"When Steve and James went to the school, James gave the flowers to", Steve,Steve. James,Steve,1,1
+233,"When Helen and Kevin went to the gym, Kevin gave the ball to", Helen,Helen. Helen,Helen,1,1
+234,"Once Karen and Rachel arrived at the cafe, Karen passed the gift to", Rachel,"her sister,",her,0,1
+235,"While Dan and James were at the store, James handed a drink to", Dan,Dan and James,Dan,1,1
+236,"After Sarah and James went to the park, Sarah gave the ball to", James,"James, who",James,1,1
+237,"After Alex and Robert went to the gym, Alex gave the bag to", Robert,Robert.,Robert,1,1
+238,"Once Helen and Emily arrived at the park, Helen passed the flowers to", Emily,Emily. Emily,Emily,1,1
+239,"Once Anna and Mary arrived at the gym, Anna passed the ball to", Mary,"her sister,",her,0,1
+240,"While Susan and Robert were at the gym, Robert handed the keys to", Susan,Susan's car,Susan's,0,1
+241,"Once David and Helen arrived at the gym, David passed a drink to", Helen,Helen. Helen,Helen,1,1
+242,"When Chris and Anna went to the park, Anna gave the flowers to", Chris,Chris and asked,Chris,1,1
+243,"While Chris and Steve were at the store, Steve handed a drink to", Chris,Chris.,Chris,1,1
+244,"After Susan and Dan went to the school, Susan gave the keys to", Dan,the school's,the,0,1
+245,"After Laura and Chris went to the school, Laura gave a card to", Chris,"Chris, who",Chris,1,1
+246,"After Jack and Helen went to the store, Jack gave the gift to", Helen,Helen. Jack,Helen,1,1
+247,"When David and Dan went to the office, Dan gave a book to", David,David. David,David,1,1
+248,"When Ben and Steve went to the store, Steve gave a book to", Ben,Ben and Steve,Ben,1,1
+249,"When Jack and Lisa went to the school, Lisa gave a card to", Jack,Jack and Jack,Jack,1,1
+250,"Once Mike and Anna arrived at the store, Mike passed a book to", Anna,Anna.,Anna,1,1
+251,"Once Jessica and James arrived at the park, Jessica passed the flowers to", James,James. James,James,1,1
+252,"After Lily and Lisa went to the park, Lily gave the flowers to", Lisa,"Lisa, who",Lisa,1,1
+253,"When Mary and Kevin went to the office, Kevin gave the flowers to", Mary,Mary and Mary,Mary,1,1
+254,"When Sarah and Mary went to the library, Mary gave the bag to", Sarah,"Sarah, who",Sarah,1,1
+255,"When Lucy and Sarah went to the cafe, Sarah gave the keys to", Lucy,the cafe to,the,0,1
+256,"After Brian and Kevin went to the restaurant, Brian gave the keys to", Kevin,the restaurant to,the,0,1
+257,"While Kevin and Anna were at the gym, Anna handed the bag to", Kevin,"Kevin. """,Kevin,1,1
+258,"When Jessica and Robert went to the library, Robert gave the keys to", Jessica,the library.,the,0,1
+259,"Once Ben and Karen arrived at the school, Ben passed the bag to", Karen,"Karen, who",Karen,1,1
+260,"Once Helen and Susan arrived at the library, Helen passed a card to", Susan,Susan. Susan,Susan,1,1
+261,"Once Alex and Emily arrived at the park, Alex passed a card to", Emily,Emily.,Emily,1,1
+262,"After Brian and Steve went to the office, Brian gave a card to", Steve,Steve. Brian,Steve,1,1
+263,"When Sarah and Steve went to the park, Steve gave the keys to", Sarah,the park to,the,0,1
+264,"After Tom and Emily went to the park, Tom gave a card to", Emily,Emily. Emily,Emily,1,1
+265,"Once David and Mary arrived at the gym, David passed the keys to", Mary,the gym to,the,0,1
+266,"While Ben and Lisa were at the library, Lisa handed a drink to", Ben,Ben.,Ben,1,1
+267,"After Kevin and Paul went to the gym, Kevin gave the keys to", Paul,the gym to,the,0,1
+268,"When Steve and Dan went to the cafe, Dan gave the ball to", Steve,Steve. Steve,Steve,1,1
+269,"While Ben and Lisa were at the gym, Lisa handed the keys to", Ben,the car.,the,0,1
+270,"While Susan and Laura were at the library, Laura handed a drink to", Susan,"Susan. """,Susan,1,1
+271,"While Mike and John were at the office, John handed the gift to", Mike,Mike.,Mike,1,1
+272,"Once Lisa and John arrived at the restaurant, Lisa passed a book to", John,John. John,John,1,1
+273,"After Tom and Dan went to the store, Tom gave the keys to", Dan,the store and,the,0,1
+274,"After Alex and Emily went to the cafe, Alex gave a card to", Emily,"Emily, who",Emily,1,1
+275,"When Paul and Lisa went to the gym, Lisa gave the keys to", Paul,Paul's car,Paul's,0,1
+276,"While Mike and Dan were at the store, Dan handed the keys to", Mike,Mike and Dan,Mike,1,1
+277,"Once Robert and Steve arrived at the library, Robert passed the flowers to", Steve,Steve.,Steve,1,1
+278,"While Anna and Emily were at the school, Emily handed the keys to", Anna,the school's,the,0,1
+279,"While James and Emily were at the office, Emily handed the flowers to", James,James.,James,1,1
+280,"When Susan and Mary went to the library, Mary gave a drink to", Susan,Susan. Susan,Susan,1,1
+281,"While Paul and Chris were at the school, Chris handed a book to", Paul,Paul.,Paul,1,1
+282,"Once Paul and Brian arrived at the park, Paul passed a drink to", Brian,Brian.,Brian,1,1
+283,"Once Henry and Emily arrived at the restaurant, Henry passed a book to", Emily,Emily. Emily,Emily,1,1
+284,"When Lucy and David went to the school, David gave a card to", Lucy,Lucy. Lucy,Lucy,1,1
+285,"When Ben and Alex went to the store, Alex gave the bag to", Ben,Ben and asked,Ben,1,1
+286,"Once Robert and Tom arrived at the gym, Robert passed the bag to", Tom,Tom.,Tom,1,1
+287,"When Karen and Lucy went to the library, Lucy gave the gift to", Karen,"Karen, who",Karen,1,1
+288,"Once Alex and John arrived at the gym, Alex passed a book to", John,John. John,John,1,1
+289,"Once Rachel and Lucy arrived at the gym, Rachel passed the keys to", Lucy,the gym to,the,0,1
+290,"Once Ben and James arrived at the school, Ben passed the bag to", James,"James, who",James,1,1
+291,"While Tom and Jessica were at the library, Jessica handed the gift to", Tom,"her boyfriend,",her,0,1
+292,"When Brian and Susan went to the restaurant, Susan gave the keys to", Brian,the restaurant to,the,0,1
+293,"After Jessica and Chris went to the gym, Jessica gave a card to", Chris,Chris. Jessica,Chris,1,1
+294,"After Susan and James went to the restaurant, Susan gave the gift to", James,James. James,James,1,1
+295,"After Mike and Kevin went to the restaurant, Mike gave the keys to", Kevin,the restaurant to,the,0,1
+296,"Once Lily and Karen arrived at the cafe, Lily passed the flowers to", Karen,Karen. Karen,Karen,1,1
+297,"After Steve and Helen went to the gym, Steve gave a card to", Helen,Helen. Helen,Helen,1,1
+298,"While Tom and Robert were at the cafe, Robert handed the flowers to", Tom,Tom.,Tom,1,1
+299,"When Anna and Jack went to the store, Jack gave a card to", Anna,Anna. Anna,Anna,1,1

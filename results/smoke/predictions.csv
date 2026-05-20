@@ -1,0 +1,31 @@
+id,prompt,expected,generated,predicted,success,n_steps
+0,"After Karen and James went to the store, Karen gave the gift to", James,James. James,James,1,1
+1,"Once Susan and Dan arrived at the park, Susan passed the keys to", Dan,the car.,the,0,1
+2,"After Mary and John went to the park, Mary gave the ball to", John,"John, who",John,1,1
+3,"Once Jessica and Kevin arrived at the store, Jessica passed the ball to", Kevin,Kevin.,Kevin,1,1
+4,"After Susan and Robert went to the office, Susan gave a drink to", Robert,Robert. Robert,Robert,1,1
+5,"After Lucy and Emily went to the gym, Lucy gave the gift to", Emily,"Emily, who",Emily,1,1
+6,"When Lily and Chris went to the gym, Chris gave the keys to", Lily,the gym to,the,0,1
+7,"While James and Alex were at the gym, Alex handed a card to", James,James.,James,1,1
+8,"Once Jack and Mary arrived at the cafe, Jack passed the keys to", Mary,the cafe's,the,0,1
+9,"After Tom and David went to the office, Tom gave a card to", David,David.,David,1,1
+10,"While Tom and Lucy were at the store, Lucy handed the ball to", Tom,"Tom, who",Tom,1,1
+11,"Once Tom and Ben arrived at the school, Tom passed the keys to", Ben,the school's,the,0,1
+12,"While Robert and Anna were at the gym, Anna handed a book to", Robert,Robert.,Robert,1,1
+13,"After Lisa and Chris went to the office, Lisa gave the keys to", Chris,the office to,the,0,1
+14,"Once David and Henry arrived at the school, David passed a book to", Henry,Henry. Henry,Henry,1,1
+15,"When Anna and Alex went to the school, Alex gave a card to", Anna,Anna and asked,Anna,1,1
+16,"Once Susan and Rachel arrived at the store, Susan passed a card to", Rachel,Rachel. Rachel,Rachel,1,1
+17,"After Anna and Tom went to the school, Anna gave a card to", Tom,"Tom, who",Tom,1,1
+18,"After Karen and Sarah went to the library, Karen gave the flowers to", Sarah,Sarah. Sarah,Sarah,1,1
+19,"Once Anna and Dan arrived at the school, Anna passed the gift to", Dan,"her sister,",her,0,1
+20,"After Helen and Laura went to the library, Helen gave a card to", Laura,"Laura, who",Laura,1,1
+21,"When Jessica and Dan went to the cafe, Dan gave the keys to", Jessica,Jessica's car,Jessica's,0,1
+22,"Once Ben and James arrived at the restaurant, Ben passed a book to", James,James. James,James,1,1
+23,"Once Kevin and Tom arrived at the library, Kevin passed the bag to", Tom,Tom.,Tom,1,1
+24,"While Anna and Jessica were at the store, Jessica handed the keys to", Anna,the store's,the,0,1
+25,"While Karen and Lily were at the gym, Lily handed the keys to", Karen,Karen.,Karen,1,1
+26,"While Mike and Emily were at the cafe, Emily handed a drink to", Mike,Mike.,Mike,1,1
+27,"While Lily and Jessica were at the restaurant, Jessica handed the keys to", Lily,the restaurant's,the,0,1
+28,"While Karen and Rachel were at the school, Rachel handed a book to", Karen,Karen.,Karen,1,1
+29,"Once Lily and Mike arrived at the store, Lily passed a card to", Mike,"Mike, who",Mike,1,1

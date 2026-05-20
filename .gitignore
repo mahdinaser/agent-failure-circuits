@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+*.swp
+.idea/
+.vscode/
+# Large model caches — not committed
+.cache/
+huggingface/
