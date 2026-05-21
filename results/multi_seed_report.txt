@@ -1,0 +1,12 @@
+Multi-seed robustness check (5 seeds: [0, 42, 100, 200, 300])
+============================================================
+Overall accuracy  : range 0.797-0.857, mean 0.833 (sd 0.026)
+Keys fail rate    : range 0.750-0.933, mean 0.852 (sd 0.066)
+Feature 17,491 is the top-|d| feature in 1/5 seeds.
+
+Per-seed details:
+  seed   0: acc=0.847  N_keys=31  keys_fail=0.871  top_feat=7536  top_d=+2.603
+  seed  42: acc=0.797  N_keys=45  keys_fail=0.933  top_feat=17491  top_d=+2.926
+  seed 100: acc=0.817  N_keys=52  keys_fail=0.750  top_feat=7536  top_d=+2.628
+  seed 200: acc=0.850  N_keys=35  keys_fail=0.857  top_feat=10960  top_d=+3.130
+  seed 300: acc=0.857  N_keys=39  keys_fail=0.846  top_feat=19149  top_d=+3.578

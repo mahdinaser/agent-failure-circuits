@@ -1,0 +1,10 @@
+Raw-activation baseline vs SAE-feature predictors
+================================================
+All values: mean (std) ROC AUC, 5-fold stratified CV, class-balanced logistic.
+
+  raw residual stream (d=768)         : 0.929 (0.023)
+  SAE features, top-1 (d=1)           : 0.839 (0.035)
+  SAE features, top-100 (d=100)       : 0.927 (0.011)
+  SAE features, all 24,576            : 0.933 (0.017)
+
+raw accuracy (class-balanced)         : 0.877 (0.043)
